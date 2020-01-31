@@ -1,0 +1,9 @@
+Package: com.cpdigitaldarkroom.noflashlightwake
+Name: NoFlashlightWake
+Depends: mobilesubstrate
+Version: 2020.1
+Architecture: iphoneos-arm
+Description: Disable Lift and Tap to wake when flashlight is on
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
